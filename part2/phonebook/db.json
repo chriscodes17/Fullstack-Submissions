@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "12345343",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Arya De Dog",
+      "number": "1234567890",
+      "id": 5
+    },
+    {
+      "name": "Chris J",
+      "number": "00998",
+      "id": 6
+    },
+    {
+      "name": "Shola",
+      "number": "232222",
+      "id": 9
+    }
+  ]
+}
